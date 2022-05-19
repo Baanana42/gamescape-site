@@ -12,7 +12,7 @@ const HomeContent = () => {
                 <div className='col-12'>
                     <div className='row'>
                         <div className='col-md-6'>
-                            <img src={"/images/sample1.jpg"} alt="content img" className='content-img' />
+                            <img src={"https://www.gamescapesinc.com/wp-content/uploads/2020/03/ExtremeCar_1.png"} alt="content img" className='content-img' />
                         </div>
                         <div className='col-md-6 content-sub-div'>
                             <p className='heading2'>EXTREME CAR DRIVING: <br />STUNT CAR DRIVING SIMULATOR</p>
@@ -27,13 +27,13 @@ const HomeContent = () => {
                             <p className='text2'>Extreme Car Driving Games : Car driving Simulator is outflanking among all other racing games for free or car driving simulator 2020. race to the top Car drifting game 2020 or best car driving games with racing cars are famous in India, Australia, America and other British countries. Real Car Racing & gt Racing car stunt or amazing car race with 3D racing.</p>
                         </div>
                         <div className='col-md-6 '>
-                            <img src={"/images/sample2.jpg"} alt="content img" className='content-img' />
+                            <img src={"https://www.gamescapesinc.com/wp-content/uploads/2020/03/FarminSim_2.png"} alt="content img" className='content-img' />
                         </div>
                     </div>
 
                     <div className='row'>
                         <div className='col-md-6 '>
-                            <img src={"/images/sample3.jpg"} alt="content img" className='content-img' />
+                            <img src={"https://www.gamescapesinc.com/wp-content/uploads/2020/03/SubmarineRobot_1.png"} alt="content img" className='content-img' />
                         </div>
                         <div className='col-md-6 content-sub-div'>
                             <p className='heading2'>SUBMARINE ROBOT TRANSFORM <br />
@@ -49,7 +49,7 @@ const HomeContent = () => {
                             <p className='text2'>Extreme Car Driving Games : Car driving Simulator is outflanking among all other racing games for free or car driving simulator 2020. race to the top Car drifting game 2020 or best car driving games with racing cars are famous in India, Australia, America and other British countries. Real Car Racing & gt Racing car stunt or amazing car race with 3D racing.</p>
                         </div>
                         <div className='col-md-6 '>
-                            <img src={"/images/sample2.jpg"} alt="content img" className='content-img' />
+                            <img src={"https://www.gamescapesinc.com/wp-content/uploads/2020/03/GangsterCity_2.png"} alt="content img" className='content-img' />
                         </div>
                     </div>
 
